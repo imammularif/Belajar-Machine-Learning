@@ -15,6 +15,13 @@ Tahap-tahap:
 
 ### - Feature Engineering
 
+### - Overfitting dan Underfitting
+Tahap -tahap
+- Import Library
+- Load dataset
+- Mendeteksi Overfitting
+- Mengatasi Overfitting
+
 
 
 
