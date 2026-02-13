@@ -1,6 +1,6 @@
 # Belajar Machine Learning
 
-### Machine Learning Workflow
+### - Machine Learning Workflow
 Tahap-tahap:
 - Data Collecting
 - Data Loading
@@ -10,6 +10,6 @@ Tahap-tahap:
 - Deployment dan Monitoring
 
 
-### Flood Prediction
+### - Flood Prediction
 
 
